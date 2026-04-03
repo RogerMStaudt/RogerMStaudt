@@ -4,11 +4,9 @@
 - Studying Systems Analysis and Development (ADS)  
 - Passionate about the world of Software  
 
----
 
 ✝ Christ is my guide
-  
----
+
 
 ## About Me
 
@@ -17,7 +15,6 @@
 - 🐱 I have 2 cats  
 - 🌍 I dream of traveling the world and building a family  
 
----
 
 ## Technologies & Tools
 
@@ -30,7 +27,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
@@ -38,7 +34,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerMStaudt&layout=compact&theme=dark)
 
----
 
 ## Goals
 
@@ -47,13 +42,11 @@
 - Build useful and well-crafted projects  
 - Keep evolving both personally and professionally  
 
----
 
 ## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/roger-staudt/
 - 📧 Email: rogermiguelstaudt@gmail.com
 
----
 
 ⭐ Thanks for visiting my profile!
