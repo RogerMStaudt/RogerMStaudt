@@ -36,10 +36,10 @@
 - Keep evolving both personally and professionally  
 
 
-## 📫 Contact
+## Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/roger-staudt/
-- 📧 Email: rogermiguelstaudt@gmail.com
+- LinkedIn: https://www.linkedin.com/in/roger-staudt/
+- Email: rogermiguelstaudt@gmail.com
 
 
 ⭐ Thanks for visiting my profile!
