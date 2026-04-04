@@ -1,45 +1,36 @@
 # 👋 Hey, I'm Roger!
 
-- Software Developer with 3 years of experience  
-- Studying Systems Analysis and Development (ADS)  
-- Passionate about the world of Software  
-
-
-✝ Christ is my guide
-
-
 ## About Me
 
-- 💡 I enjoy everything related to Computer Science  
-- 📚 Avid reader and always learning something new  
-- 🐱 I have 2 cats  
-- 🌍 I dream of traveling the world and building a family  
+I am a follower of Christ and Christian values. I have an amazing family, two cats, crazy but cool friends, and a great future ahead of me.
 
+Over the years I have cultivated a great interest in Computer Science and everything that involves this part of technology. Since then I have been studying and practicing the art of problem-solving.
+
+## Life Goals
+
+- Living in the middle of nowhere with my future wife and kids.
+- To draw closer to God through my actions and thoughts.
+- Bringing new paradigms to the world through computing.
+- Write some books.
+- Travel a lot.
+
+## Carrer
+
+- 3 years of software development.
+- Studying Systems Analysis and Development (ADS).
+- Studying English.
 
 ## Technologies & Tools
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PLSQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-E60000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-## Goals
-
-- Work as a Software Engineer 
-- Grow as a Men
-- Build useful and well-crafted projects  
-- Keep evolving both personally and professionally  
-
+- Oracle APEX
+- Oracle PL/SQL
+- SQL
+- JavaScript
+- HTML
+- CSS
 
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/roger-staudt/
 - Email: rogermiguelstaudt@gmail.com
-
 
 ⭐ Thanks for visiting my profile!
