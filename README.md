@@ -14,7 +14,7 @@ Over the years I have cultivated a great interest in Computer Science and everyt
 - Write some books.
 - Travel a lot.
 
-## Carrer
+## Career
 
 - 3 years of software development.
 - Studying Systems Analysis and Development (ADS).
