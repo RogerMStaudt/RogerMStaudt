@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a follower of Christ and Christian values. I have an amazing family, two cats, crazy but cool friends, and a great future ahead of me.
+I am a follower of Christ and Christian values. I have an amazing family, one cat, crazy but cool friends, and a great future ahead of me.
 
 Over the years I have cultivated a great interest in Computer Science and everything that involves this part of technology. Since then I have been studying and practicing the art of problem-solving.
 
