@@ -6,21 +6,13 @@ I am a follower of Christ and Christian values. I have an amazing family, one ca
 
 Over the years I have cultivated a great interest in Computer Science and everything that involves this part of technology. Since then I have been studying and practicing the art of problem-solving.
 
-## Life Goals
-
-- Living in the middle of nowhere with my future wife and kids.
-- To draw closer to God through my actions and thoughts.
-- Bringing new paradigms to the world through computing.
-- Write some books.
-- Travel a lot.
-
 ## Career
 
 - 3 years of software development.
 - Studying Systems Analysis and Development (ADS).
 - Studying English.
 
-## Technologies & Tools
+## I work with this:
 - Oracle APEX
 - Oracle PL/SQL
 - SQL
