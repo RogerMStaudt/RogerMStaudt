@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Roger!
+# 👋 Hello, I'm Roger!
 
 ## About Me
 
@@ -25,4 +25,4 @@ Over the years I have cultivated a great interest in Computer Science and everyt
 - LinkedIn: https://www.linkedin.com/in/roger-staudt/
 - Email: rogermiguelstaudt@gmail.com
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! ⭐
